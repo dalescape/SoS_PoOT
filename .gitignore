@@ -6,3 +6,5 @@
 
 # Ignore Mac File
 *.DS_Store
+
+*__pycache__

@@ -1,0 +1,1102 @@
+[
+  {
+    "Name": "Cow",
+    "Location": "Farm Area 2",
+    "Season": "Any",
+    "Requirement": "",
+    "Pregnancy": "8 Days",
+    "Growth": "6 Days",
+    "Type": "Livestock",
+    "Species": "Cow"
+  },
+  {
+    "Name": "Brown Cow",
+    "Location": "Farm Area 2",
+    "Season": "Fall",
+    "Requirement": "",
+    "Pregnancy": "8 Days",
+    "Growth": "6 Days",
+    "Type": "Livestock",
+    "Species": "Cow"
+  },
+  {
+    "Name": "Black Cow",
+    "Location": "Purchase at Animal Store",
+    "Season": "Any",
+    "Requirement": "Animal Care Lv. 9",
+    "Pregnancy": "8 Days",
+    "Growth": "6 Days",
+    "Type": "Livestock",
+    "Species": "Cow"
+  },
+  {
+    "Name": "Buffalo",
+    "Location": "Farm Area 2",
+    "Season": "Winter",
+    "Requirement": "Animal Care Lv. 3",
+    "Pregnancy": "10 Days",
+    "Growth": "9 Days",
+    "Type": "Livestock",
+    "Species": "Buffalo"
+  },
+  {
+    "Name": "Goat",
+    "Location": "Farm Area 2",
+    "Season": "Fall",
+    "Requirement": "",
+    "Pregnancy": "8 Days",
+    "Growth": "6 Days",
+    "Type": "Livestock",
+    "Species": "Goat"
+  },
+  {
+    "Name": "Alpine Goat",
+    "Location": "Farm Area 3",
+    "Season": "Fall",
+    "Requirement": "Animal Care Lv. 5",
+    "Pregnancy": "10 Days",
+    "Growth": "9 Days",
+    "Type": "Livestock",
+    "Species": "Goat"
+  },
+  {
+    "Name": "Sheep",
+    "Location": "Farm Area 1",
+    "Season": "Summer",
+    "Requirement": "",
+    "Pregnancy": "8 Days",
+    "Growth": "6 Days",
+    "Type": "Livestock",
+    "Species": "Sheep"
+  },
+  {
+    "Name": "Suffolk Sheep",
+    "Location": "Farm Area 3",
+    "Season": "Winter",
+    "Requirement": "Animal Care Lv. 7",
+    "Pregnancy": "10 Days",
+    "Growth": "9 Days",
+    "Type": "Livestock",
+    "Species": "Sheep"
+  },
+  {
+    "Name": "Alpaca",
+    "Location": "Farm Area 3",
+    "Season": "Any",
+    "Requirement": "",
+    "Pregnancy": "8 Days",
+    "Growth": "6 Days",
+    "Type": "Livestock",
+    "Species": "Alpaca"
+  },
+  {
+    "Name": "Brown Alpaca",
+    "Location": "Farm Area 3",
+    "Season": "Spring\nSummer",
+    "Requirement": "Animal Care Lv. 7",
+    "Pregnancy": "10 Days",
+    "Growth": "9 Days",
+    "Type": "Livestock",
+    "Species": "Alpaca"
+  },
+  {
+    "Name": "Rabbit",
+    "Location": "Farm Area 2",
+    "Season": "Fall",
+    "Requirement": "",
+    "Pregnancy": "8 Days",
+    "Growth": "6 Days",
+    "Type": "Livestock",
+    "Species": "Rabbit"
+  },
+  {
+    "Name": "Pink Rabbit",
+    "Location": "Purchase at Animal Store",
+    "Season": "Any",
+    "Requirement": "Animal Care Lv. 9",
+    "Pregnancy": "8 Days",
+    "Growth": "6 Days",
+    "Type": "Livestock",
+    "Species": "Rabbit"
+  },
+  {
+    "Name": "Gray Rabbit",
+    "Location": "Farm Area 3",
+    "Season": "Winter",
+    "Requirement": "Animal Care Lv. 7",
+    "Pregnancy": "8 Days",
+    "Growth": "6 Days",
+    "Type": "Livestock",
+    "Species": "Rabbit"
+  },
+  {
+    "Name": "Chicken",
+    "Location": "Farm Area 1",
+    "Season": "Any",
+    "Requirement": "",
+    "Pregnancy": "6 days",
+    "Growth": "5 days",
+    "Type": "Livestock",
+    "Species": "Chicken"
+  },
+  {
+    "Name": "Silkie Chicken",
+    "Location": "Farm Area 3",
+    "Season": "Any",
+    "Requirement": "Animal Care Lv. 3",
+    "Pregnancy": "9 days",
+    "Growth": "7 days",
+    "Type": "Livestock",
+    "Species": "Chicken"
+  },
+  {
+    "Name": "Brown Horse",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Tame in Farm Area 3 after repairing the Stable",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Horse"
+  },
+  {
+    "Name": "Red Horse",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after taming the brown horse",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Horse"
+  },
+  {
+    "Name": "White Horse",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after taming the brown horse",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Horse"
+  },
+  {
+    "Name": "Black Horse",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after taming the brown horse",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Horse"
+  },
+  {
+    "Name": "Gorgeous Horse",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Purchase from the Shrine of Blessings",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Horse"
+  },
+  {
+    "Name": "Unicorn",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Purchase from the Shrine of Blessings",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Unicorn"
+  },
+  {
+    "Name": "Wolf",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Purchase from the Shrine of Blessings",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Dog"
+  },
+  {
+    "Name": "Shiba Inu",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Dog"
+  },
+  {
+    "Name": "Black Shiba Inu",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Dog"
+  },
+  {
+    "Name": "White Shiba Inu",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Dog"
+  },
+  {
+    "Name": "Pomeranian",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Dog"
+  },
+  {
+    "Name": "Labrador Retriever",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Dog"
+  },
+  {
+    "Name": "Bernese Mountain Dog",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Dog"
+  },
+  {
+    "Name": "Siberian Husky",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Dog"
+  },
+  {
+    "Name": "Border Collie",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Dog"
+  },
+  {
+    "Name": "Brown Striped Mix",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Cat"
+  },
+  {
+    "Name": "Black Mix",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Cat"
+  },
+  {
+    "Name": "White Mix",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Cat"
+  },
+  {
+    "Name": "American Shorthair",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Cat"
+  },
+  {
+    "Name": "Scottish Fold",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Cat"
+  },
+  {
+    "Name": "Calico",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Cat"
+  },
+  {
+    "Name": "Persian",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Cat"
+  },
+  {
+    "Name": "Maine Coon",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Available for purchase after upgrading your tent to a Log Cabin",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Cat"
+  },
+  {
+    "Name": "Little Wolf",
+    "Location": "",
+    "Season": "",
+    "Requirement": "Purchase from the Shrine of Blessings",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Pet",
+    "Species": "Dog"
+  },
+  {
+    "Name": "Sardine",
+    "Location": "Farm Area 1 Ocean \nFarm Area 2 Ocean \nFarm Area 3 Ocean\nTown Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Shishamo Smelt",
+    "Location": "Farm Area 1 Ocean\nTown Beach",
+    "Season": "Fall\nWinter",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Horse Mackerel",
+    "Location": "Farm Area 1 Ocean\nFarm Area 2 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Dace",
+    "Location": "Ponds\nFarm River\nFarm Area 2 Lake\nMine Lakes\nFisher's Island River",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Herring",
+    "Location": "Farm Area 1 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Cod",
+    "Location": "Farm Area 2 Ocean\nFisher's Island Ocean",
+    "Season": "Fall\nWinter\n\n(Any at Fisher's Island)",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Eel",
+    "Location": "Farm River\nFarm Area 3 Lake\nTown River\nMine Lakes\nAncient Lake",
+    "Season": "Spring\nSummer\nFall\nWinter\n(Fall/Winter only if River)",
+    "Requirement": "Basic Rod\nIron Rod in Rivers",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Sea Bass",
+    "Location": "Farm Area 1 Ocean\nFarm Area 3 Ocean\nTown Ocean\nFisher's Island Ocean",
+    "Season": "Summer\nFall",
+    "Requirement": "Basic Rod in Farm Area 3\nIron Rod everywhere else",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Yellow Perch",
+    "Location": "Farm River\nFarm Area 3 Lake\nTown River\nAncient Lake\nFisher's Island River",
+    "Season": "Spring\nSummer\nFall\n(Any at Fisher's Island)",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Tilapia",
+    "Location": "Farm River\nTown River\nFisher's Island River",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Iron Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Catfish",
+    "Location": "Farm River\nTown River\nMine Lake\nAncient Lake\nAngler River",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Silver Rod\nMorning (6am - 12pm)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Snakehead",
+    "Location": "Farm River\nTown River\nMine Lake\nAncient Lake\nAngler River",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Silver Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Star Snapper",
+    "Location": "Farm Area 1 Ocean\nTown Ocean",
+    "Season": "Spring\nSummer",
+    "Requirement": "Silver Rod\nEvening (6pm - 12am)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Milkfish",
+    "Location": "Farm Area 2 Ocean\nFarm Area 3 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Sea Bream",
+    "Location": "Farm Area 2 Ocean\nFarm Area 3 Ocean",
+    "Season": "Summer\nFall",
+    "Requirement": "Basic Rod\nAfternoon (12pm - 6pm)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Flounder",
+    "Location": "Farm Area 3 Ocean",
+    "Season": "Spring\nWinter",
+    "Requirement": "Basic Rod\nNight (8pm - 2am)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Salmon",
+    "Location": "Farm Area 1 Ocean\nFarm Area 2 Ocean\nTown Ocean",
+    "Season": "Spring Summer Fall Winter",
+    "Requirement": "Silver rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Mahi-mahi",
+    "Location": "Farm Area 3 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Iron Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Oarfish",
+    "Location": "Farm Area 2 Ocean",
+    "Season": "Spring\nWinter",
+    "Requirement": "Silver rod\nNight (9pm - 12am)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Tuna",
+    "Location": "Farm Area 3 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Silver rod\nMorning/Afternoon (6am - 5pm)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Alligator Gar",
+    "Location": "Farm Area 3 Ocean\nMine Lake",
+    "Season": "Spring\nSummer\nFall\n(Spr/Sum if Mine Lake)",
+    "Requirement": "Silver rod\nEvening/Night (5pm - 2am)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Monkfish",
+    "Location": "Farm Area 3 Ocean\nFisher's Island Ocean",
+    "Season": "Summer\nFall\nWinter\n(Any if Fisher's Island)",
+    "Requirement": "Silver rod\nEvening (7pm - 12am)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Giant Catfish",
+    "Location": "Farm River",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Orichalcum Rod\nGuardian Bait\nMorning (7am - 11am)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Guardian"
+  },
+  {
+    "Name": "Crayfish",
+    "Location": "Puddles\nFarm Area 2 or 3 Lake\nMine Lake",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Crustacian"
+  },
+  {
+    "Name": "Whiskered Velvet Shrimp",
+    "Location": "Farm Area 1 Ocean\nTown Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Crustacian"
+  },
+  {
+    "Name": "Giant Freshwater Prawn",
+    "Location": "Farm River\nFarm Area 2 Lake\nFisher's Island River",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Basic Rod\nIron Rod in Rivers",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Crustacian"
+  },
+  {
+    "Name": "Giant Tiger Shrimp",
+    "Location": "Farm Area 2 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Crustacian"
+  },
+  {
+    "Name": "Lobster",
+    "Location": "Farm Area 3 Ocean\nFisher's Island Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Iron Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Crustacian"
+  },
+  {
+    "Name": "Rock Lobster",
+    "Location": "Farm Area 2 Ocean\nFarm Area 3 Ocean\nMine Lake\nFisher's Island Ocean",
+    "Season": "Winter\n(Any in Mine Lake or Fisher's Island)",
+    "Requirement": "Basic Rod in Mine Lake\nSilver Rod in Oceans\nEvening/Night (5pm - 2am) Area 2\nMorning (10am - 12pm) Area 3",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Crustacian"
+  },
+  {
+    "Name": "Gazami Crab",
+    "Location": "Farm Area 1 Ocean\nTown Ocean\nMine Lake",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Crab"
+  },
+  {
+    "Name": "Blue Crab",
+    "Location": "Farm Area 2 Ocean\nAncient Lake",
+    "Season": "Winter\n(Any at Ancient Lake)",
+    "Requirement": "Basic Rod\nMorning/Afternoon (6am - 5pm)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Crab"
+  },
+  {
+    "Name": "Horsehair Crab",
+    "Location": "Farm Area 3 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Iron Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Crab"
+  },
+  {
+    "Name": "Snow Crab",
+    "Location": "Farm Area 2 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Iron Rod\nEvening/Night (5pm - 2am)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Crab"
+  },
+  {
+    "Name": "Common Squid",
+    "Location": "Farm Area 1 Ocean\nTown Ocean",
+    "Season": "Spring (Town only)\nSummer (Farm only)\nFall\nWinter",
+    "Requirement": "Basic Rod\nEvening (5pm - 12am)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Squid"
+  },
+  {
+    "Name": "Spear Squid",
+    "Location": "Farm Area 2 Ocean\nAngler Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Basic Rod\nEvening/Night (5pm - 2am)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Squid"
+  },
+  {
+    "Name": "Bigfin Reef Squid",
+    "Location": "Farm Area 2 Ocean",
+    "Season": "Spring\nSummer",
+    "Requirement": "Basic Rod\nMorning/Afternoon (6am - 5pm)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Squid"
+  },
+  {
+    "Name": "Cuttlefish",
+    "Location": "Farm Area 3 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Iron Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Squid"
+  },
+  {
+    "Name": "Blood Clam",
+    "Location": "Farm Area 1 Shore\nFarm Area 1 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Harvest along the shore for 0☆\nUse a net for higher quality",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Shellfish"
+  },
+  {
+    "Name": "Oyster",
+    "Location": "Farm Area 2 Shore\nFarm Area 2 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Harvest along the shore for 0☆\nUse a net for higher quality",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Shellfish"
+  },
+  {
+    "Name": "Mussel",
+    "Location": "Farm Area 3 Shore\nFarm Area 3 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Harvest along the shore for 0☆\nUse a net for higher quality",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Shellfish"
+  },
+  {
+    "Name": "Abalone",
+    "Location": "Farm Area 3 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Use a net in the Ocean",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Shellfish"
+  },
+  {
+    "Name": "Spotted Eagle Ray",
+    "Location": "Farm Area 3 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Orichalcum Rod\nGuardian Bait\nAfternoon (2pm-4pm) **Sunny/Snowing/Snow Storm**",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Ray"
+  },
+  {
+    "Name": "Halibut",
+    "Location": "Ancient Lake",
+    "Season": "Spring \nSummer\nFall\nWinter",
+    "Requirement": "Orichalcum Rod\nGuardian Bait\nNight (9pm-11pm)",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Giant Grouper",
+    "Location": "Farm Area 1 Ocean \n(Off the dock behind your house)",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Orichalcum Rod\nGuardian Bait\nMorning (9am-11am) **Sunny/Rainy**",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Marlin",
+    "Location": "Farm Area 2 Ocean\n(most eastern part of beach)",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Orichalcum Rod\nGuardian Bait\nAfternoon (12pm-2pm) **Sunny/Snowing**",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Giant Squid",
+    "Location": "Fisher's Island Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Orichalcum Rod\nGuardian Bait",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Squid"
+  },
+  {
+    "Name": "Giant King Crab",
+    "Location": "Mine Lake Area 3",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Orichalcum Rod\nGuardian Bait",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Crab"
+  },
+  {
+    "Name": "Sparkling Fish",
+    "Location": "Every Location except for:\nPuddles\nPonds\nFarm Area 3 Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Basic Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Shining Fish",
+    "Location": "Farm Area 2 Ocean\nFarm Area 3 Ocean\nMine Lakes\nAncient Lake\nFisher's Island Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Silver Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Aurora Fish",
+    "Location": "Farm Area 3 Ocean\nMine Lakes\nAncient Lake\nFisher's Island Ocean",
+    "Season": "Spring\nSummer\nFall\nWinter",
+    "Requirement": "Orichalcum Rod",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Fishing",
+    "Species": "Fish"
+  },
+  {
+    "Name": "Bear",
+    "Location": "Any part of The Farm",
+    "Season": "Spring, Summer, and Fall",
+    "Requirement": "Place several Beehives close together",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Bear"
+  },
+  {
+    "Name": "Bluebird",
+    "Location": "Near The Hydroculture Building",
+    "Season": "Spring, Fall, and Winter",
+    "Requirement": "Sunny Day\n6 am-3 pm",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Bird"
+  },
+  {
+    "Name": "Brown Ermine",
+    "Location": "Third Farming Area",
+    "Season": "Spring, Summer, and Fall",
+    "Requirement": "Sunny Day\n1 pm-8 pm",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Ermine"
+  },
+  {
+    "Name": "Crab",
+    "Location": "Second Farming Area on The Beach",
+    "Season": "Winter",
+    "Requirement": "Sunny Day\n6 am-9 pm",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Crab"
+  },
+  {
+    "Name": "Eagle",
+    "Location": "Second Farming Area on The Beach",
+    "Season": "All",
+    "Requirement": "Sunny Day\n6 am-9 pm",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Bird"
+  },
+  {
+    "Name": "Falcon",
+    "Location": "Third Farming Area on The Beach",
+    "Season": "All",
+    "Requirement": "Sunny Day\n6 am-9 pm",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Bird"
+  },
+  {
+    "Name": "Giant Pill Millipede",
+    "Location": "Third Farming Area Near The Mine",
+    "Season": "All",
+    "Requirement": "Sunny Day\n6 am-2 am",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Millipede"
+  },
+  {
+    "Name": "Giant Stag Beetle",
+    "Location": "Third Farming Area on Trees",
+    "Season": "Summer",
+    "Requirement": "Sunny Weather",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Beetle"
+  },
+  {
+    "Name": "Hercules Beetle",
+    "Location": "Near The Hydroculture Building on Trees",
+    "Season": "Summer",
+    "Requirement": "8 pm-2 am",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Beetle"
+  },
+  {
+    "Name": "Monkey",
+    "Location": "Third Farming Area near Stumps",
+    "Season": "All",
+    "Requirement": "Sunny Day\n6 am-8 pm",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Monkey"
+  },
+  {
+    "Name": "Morpho Butterfly",
+    "Location": "Near The Hydroculture Plant",
+    "Season": "Summer and Fall",
+    "Requirement": "Sunny Day\n6 am-2 am",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Butterfly"
+  },
+  {
+    "Name": "Orange Fox",
+    "Location": "Forest at the top of Olive Town",
+    "Season": "Spring, Summer, and Fall",
+    "Requirement": "Sunny Day\n12 pm-8 pm",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Fox"
+  },
+  {
+    "Name": "Owl",
+    "Location": "Second and Third Farm Areas",
+    "Season": "All seasons",
+    "Requirement": "Sunny Day\n8 pm-2 am",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Bird"
+  },
+  {
+    "Name": "Ptarmigan",
+    "Location": "Third Farm Area around Flowers",
+    "Season": "Winter",
+    "Requirement": "6 am-2 am",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Bird"
+  },
+  {
+    "Name": "Rhinoceros Beetle",
+    "Location": "Third Farming Area on Trees",
+    "Season": "Summer",
+    "Requirement": "Sunny Weather",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Beetle"
+  },
+  {
+    "Name": "Squirrel",
+    "Location": "Beginning Farming Area around Trees",
+    "Season": "All seasons",
+    "Requirement": "Sunny Day\n6 am-8 pm",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Squirrel"
+  },
+  {
+    "Name": "Swallowtail Butterfly",
+    "Location": "Third Farm Area around Flowers",
+    "Season": "Spring, Summer, and Fall",
+    "Requirement": "Sunny Day\n6 am-2 am",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Butterfly"
+  },
+  {
+    "Name": "Sparrow",
+    "Location": "Second And Third Farm, Near Trees",
+    "Season": "All seasons",
+    "Requirement": "Sunny Day\n6 am-8 pm",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Bird"
+  },
+  {
+    "Name": "White Butterfly",
+    "Location": "First Two Farming Areas around Flowers",
+    "Season": "Spring, Summer, and Fall",
+    "Requirement": "Sunny Day\n6 am-2 am",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Butterfly"
+  },
+  {
+    "Name": "White Ermine",
+    "Location": "Third Farm Area",
+    "Season": "Winter",
+    "Requirement": "Sunny Day\n1 pm-8 pm",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Ermine"
+  },
+  {
+    "Name": "White Fox",
+    "Location": "Forest at the top of Olive Town",
+    "Season": "Winter",
+    "Requirement": "Sunny Day\n12 pm-8 pm",
+    "Pregnancy": "",
+    "Growth": "",
+    "Type": "Wildlife",
+    "Species": "Fox"
+  }
+]

@@ -30,6 +30,7 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
+# dalescape edits made in apps
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -39,7 +40,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'rest_framework.authtoken',
-    'corsheaders'
+    'corsheaders',
+    'user_app',
+    'crop_app',
+    'farm_app',
 ]
 
 MIDDLEWARE = [
@@ -76,13 +80,20 @@ WSGI_APPLICATION = 'Sos_PoOT_proj.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
+# dalescape edits made in databases
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'SoS_PoOT_db',
+        'NAME': 'sos_poot_db',
     }
 }
 
+# dalescape added this section
+REST_FRAMEWORK = {
+    "DEFAULT_AUTHENTICATION_CLASSES":[
+        "rest_framework.authentication.TokenAuthentication"
+    ]
+}
 
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
@@ -124,3 +135,6 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# dalescape added 
+AUTH_USER_MODEL = 'user_app.User'

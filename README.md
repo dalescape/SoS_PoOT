@@ -175,3 +175,18 @@ git add .
 git commit -m "this commit corrects both mistakes"
 
 - now i will undo the last two commits. i did "git reset HEAD~2" now running git status. perfect now i will git add all of it. then do git commit with my comment and try pushing it. 
+
+- yayyyy it has worked and i have no problems currently. now back to django. i have two apps to start. i will begin with user_app. i went through old files and found an example project going through the full stack exercise, this will be amazing to refrence. i see the venv is only in the backend. i should probably do that as well envenntually. starting with just the user_app. going into proj. now will create 3 apps. (user_app , crop_app , farm_app) done.
+* i should get the terminal history into a file for refrence
+- now i need to add these to settings. great now i see something about adding rest_framework into the settings. not sure about this quite yet. eh found it in an old project so going to put in now. 
+- next step seems to be define models. but i see an error and i think i should install requirments first. hm says already done. okay now defining models in user_app. stuck on error. tried install all the django stuff again, didn't work. tried reloading window from command palette, didn't work. tried adding "AUTH_USER_MODEL = 'user_app.User'" to settings. Didn't work. okay i had to mess with the python interpreter, it wasn't selecting to be in my current virtual enviroment but i got it worked out. made a new one in programming? idk
+- made model for user, thinking about trying to add feature where user selects favorite animal from game and then that animal is used more on their farm page. not sure where i would put the animal info in this project or if it should be a separate class. going into user_app admin and registering the model User. now i need to make migrations. went into proj on terminal. it says my database doesn't exist. capitalization matching error adjusted. looks good (i have to be in proj for migrations to work) now i want to enter the db. seems okay?
+- now i want to run the server. doing so in main folder, jk that failed. okay now its up.  now i will go into the admin site. i will first create a superuser. Unique username: 'dalescape' , Character name: 'dal' , Password: '1234' (yelled at me but i bypassed it)  now going back to start the server, 
+* Starting development server at http://127.0.0.1:8000/
+* Admin site server and login here http:localhost:8000/admin
+I can see Auth Tokens - Tokens, Authentication and Authorization - Groups, User_app - Users. Everything seems to be working well. 
+- time to start working on the other models. but first i need to create a new file for data files. done. now i want to start creating data files. maybe start with animals in the game? see about apis and do a bit of research. then can move to include data from my spreadsheet. 
+- added a json file with animal data, next would need to be crops? i cleaned up some data and added a json of crop data but its not perfect.
+- i will push the current stuff rn before i start messing with the next models.
+
+
